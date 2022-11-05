@@ -53,7 +53,7 @@ export default function IndexPage() {
           color : blue
         }
         p {
-          font-size: 24px;
+          font-size: 14px;
           line-height: 30px;
           margin-top: 30px;
           color: black
