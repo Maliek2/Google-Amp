@@ -17,10 +17,10 @@ export default function IndexPage() {
         <title>The Mobile News</title>
         
       </Head>
-       <h1>Mobile News</h1>
+       <h1>Maliek News</h1>
        
        <p>
-        The login can now switch To <a href={isAmp ? '/login?amp=1' : '/login'}>Mobile Users</a>,
+        The login can now switch To <a href={isAmp ? '/login?amp=1' : '/login'}>Mobile</a>,
         Sit and stare if it fits, i sits. Mark
         territory damn that dog , but step on your keyboard while you're gaming
         and then turn in a circle put butt in owner's face human give me
