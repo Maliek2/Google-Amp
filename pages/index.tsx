@@ -17,7 +17,7 @@ export default function IndexPage() {
         <title>The Mobile News</title>
         
       </Head>
-       <h1>Maliek News</h1>
+       <h1>The Maliek News</h1>
        
        <p>
         The login can now switch To <a href={isAmp ? '/login?amp=1' : '/login'}>Mobile</a>,
@@ -52,10 +52,10 @@ export default function IndexPage() {
           color : red ;
         }
         p {
-          font-size: 14px;
+          font-size: 24px;
           line-height: 30px;
           margin-top: 30px;
-          color: green ;
+          color: black ;
         }
         .caption {
           color: #ccc;
