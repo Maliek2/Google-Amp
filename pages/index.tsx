@@ -18,6 +18,15 @@ export default function IndexPage() {
 
 
       </Head>
+      <h1>The Mobile News</h1>
+       <nav id="navigation"></nav>
+       <main>
+
+       <p>This paragraph is not rendered by React (open index.html to verify).</p>
+       <section id="comments"></section>
+
+      </main>
+
        <p>
         The Login Users  Can Now Switch To <a href={isAmp ? '/dog?amp=1' : '/dog'}>Mobile Users</a>,
         Sit and stare if it fits, i sits. Mark
