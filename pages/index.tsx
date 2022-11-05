@@ -55,7 +55,7 @@ export default function IndexPage() {
           font-size: 14px;
           line-height: 30px;
           margin-top: 30px;
-          color: black
+          color: green ;
         }
         .caption {
           color: #ccc;
