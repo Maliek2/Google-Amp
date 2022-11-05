@@ -15,10 +15,10 @@ export default function IndexPage() {
     <Layout>
       <Head>
         <title>The Mobile News</title>
-
+        <link href="https://www.google.co.za/amp/www.adball.tech/">
 
       </Head>
-       <h1>The Mobile News</h1>
+       <h1>Mobile News</h1>
        
        <p>
         The login can now switch To <a href={isAmp ? '/login?amp=1' : '/login'}>Mobile Users</a>,
