@@ -15,8 +15,7 @@ export default function IndexPage() {
     <Layout>
       <Head>
         <title>The Mobile News</title>
-        <link href="https://www.google.co.za/amp/www.adball.tech/">
-
+        
       </Head>
        <h1>Mobile News</h1>
        
