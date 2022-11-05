@@ -30,3 +30,27 @@ export default function IndexPage() {
         litter all over house, going to catch the red dot today going to catch
         the red dot today. Jump off balcony, onto stranger's head.
       </p>
+<style jsx>
+           {`
+        h1 {
+          margin-bottom: 5px;
+          color : red ;
+        }
+        p {
+          font-size: 18px;
+          line-height: 30px;
+          margin-top: 30px;
+          color: black ;
+        }
+        .caption {
+          color: #ccc;
+          margin-top: 0;
+          font-size: 14px;
+          text-align: center;
+        }
+      `}
+
+       </style>
+      </Layout>
+  )
+}
