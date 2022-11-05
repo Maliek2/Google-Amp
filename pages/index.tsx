@@ -21,7 +21,7 @@ export default function IndexPage() {
        <h1>The Mobile News</h1>
        
        <p>
-        The Login Users  Can Now Switch To <a href={isAmp ? '/dog?amp=1' : '/dog'}>Mobile Users</a>,
+        The login can now switch To <a href={isAmp ? '/login?amp=1' : '/login'}>Mobile Users</a>,
         Sit and stare if it fits, i sits. Mark
         territory damn that dog , but step on your keyboard while you're gaming
         and then turn in a circle put butt in owner's face human give me
@@ -65,6 +65,6 @@ export default function IndexPage() {
       `}
 
        </style>
-       </Layout>
+      </Layout>
   )
 }
