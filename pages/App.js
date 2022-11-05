@@ -6,7 +6,7 @@ export default function App() {
       <h1>The Mobile News</h1>
 
       <Counter />
-      <Adsense />
+      
 
 
     </>
