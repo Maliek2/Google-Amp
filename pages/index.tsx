@@ -52,7 +52,7 @@ export default function IndexPage() {
           color : red ;
         }
         p {
-          font-size: 24px;
+          font-size: 18px;
           line-height: 30px;
           margin-top: 30px;
           color: black ;
