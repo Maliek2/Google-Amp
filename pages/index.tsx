@@ -50,11 +50,13 @@ export default function IndexPage() {
            {`
         h1 {
           margin-bottom: 5px;
+          color : blue
         }
         p {
           font-size: 24px;
           line-height: 30px;
           margin-top: 30px;
+          color: black
         }
         .caption {
           color: #ccc;
