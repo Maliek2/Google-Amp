@@ -49,7 +49,7 @@ export default function IndexPage() {
            {`
         h1 {
           margin-bottom: 5px;
-          color : blue
+          color : red ;
         }
         p {
           font-size: 14px;
