@@ -21,10 +21,10 @@ export default function DogPage() {
           {isAmp ? 'View Non-AMP' : 'View AMP'} Version
         </a>
       </p>
-      <p className="caption">Maliek News App</p>
+      <p className="caption">Maliek News</p>
       <p>
        Maliek News{' '}
-        <a href={isAmp ? '/?amp=1' : '/'}>Mobile App </a> 
+        <a href={isAmp ? '/?amp=1' : '/'}>Mobile App</a> 
         Marzipan gummi
         bears pie danish lollipop pudding powder gummi bears sweet. Pie sweet
         roll sweet roll topping chocolate bar dragée pudding chocolate cake.
