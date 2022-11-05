@@ -18,15 +18,8 @@ export default function IndexPage() {
 
 
       </Head>
-      <h1>The Mobile News</h1>
-       <nav id="navigation"></nav>
-       <main>
-
-       <p>This paragraph is not rendered by React (open index.html to verify).</p>
-       <section id="comments"></section>
-
-      </main>
-
+       <h1>The Mobile News</h1>
+       
        <p>
         The Login Users  Can Now Switch To <a href={isAmp ? '/dog?amp=1' : '/dog'}>Mobile Users</a>,
         Sit and stare if it fits, i sits. Mark
@@ -52,13 +45,14 @@ export default function IndexPage() {
         in horror yet flop over.
       </p>
       
+
       <style jsx>
            {`
         h1 {
           margin-bottom: 5px;
         }
         p {
-          font-size: 20px;
+          font-size: 24px;
           line-height: 30px;
           margin-top: 30px;
         }
