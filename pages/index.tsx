@@ -61,10 +61,7 @@ export default function IndexPage() {
         }
       `}
 
-</style>
-
-
-
-    </Layout>
+       </style>
+       </Layout>
   )
 }
