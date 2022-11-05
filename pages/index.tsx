@@ -13,18 +13,25 @@ export default function IndexPage() {
   return (
     <Layout>
       <Head>
-        <title>The Cat</title>
+        <title>The Mobile News</title>
+
+
       </Head>
+
+
       <h1>The Mobile News</h1>
-      <Byline author="Login Users" />
       <p className="caption">Maliek Galant</p>
+
+      <Byline author="Login Users" />
+
+      
 
       <amp-img
         alt="Mountains"
         width="550"
         height="368"
         layout="responsive"
-        src="https://amp.dev/static/inline-examples/images/mountains.webp"
+        src="https://programmablesearchengine.google.com/about/mod1_image_xl_notext_2x.webp"
       >
         <amp-img
           alt="Mountains"
@@ -32,11 +39,13 @@ export default function IndexPage() {
           width="550"
           height="368"
           layout="responsive"
-          src="https://amp.dev/static/inline-examples/images/mountains.jpg"
+          src="https://programmablesearchengine.google.com/about/mod3_generic_phone_xl_2x.webp"
         ></amp-img>
       </amp-img>
+
+
       <p>
-        Cat ipsum dolor <a href={isAmp ? '/dog?amp=1' : '/dog'}>Login Users</a>,
+        The Login Users  Can Now Switch To <a href={isAmp ? '/dog?amp=1' : '/dog'}>Mobile Users</a>,
         eat grass, throw it back up but refuse to leave cardboard box or groom
         yourself 4 hours - checked, have your beauty sleep 18 hours - checked,
         be fabulous for the rest of the day - checked!. Hide from vacuum
@@ -90,7 +99,7 @@ export default function IndexPage() {
           margin-bottom: 5px;
         }
         p {
-          font-size: 18px;
+          font-size: 20px;
           line-height: 30px;
           margin-top: 30px;
         }
