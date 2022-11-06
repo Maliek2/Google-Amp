@@ -7,7 +7,7 @@ export const config = {
   amp: true,
 }
 
-export default function IndexPage() {
+export default function TruePage() {
   const isAmp = useAmp()
 
   return (
@@ -30,7 +30,7 @@ export default function IndexPage() {
         litter all over house, going to catch the red dot today going to catch
         the red dot today. Jump off balcony, onto stranger's head.
       </p>
-<style jsx>
+      <style jsx>
            {`
         h1 {
           margin-bottom: 5px;
