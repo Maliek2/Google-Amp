@@ -7,7 +7,7 @@ export const config = {
   amp: true,
 }
 
-export default function TruePage() {
+export default function IndexPage() {
   const isAmp = useAmp()
 
   return (
