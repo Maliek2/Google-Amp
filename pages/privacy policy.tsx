@@ -1,6 +1,10 @@
 import Head from 'next/head'
 import { useAmp } from 'next/amp'
 import Byline from '../components/Byline'
+import { createRoot } from 'react-dom/client';
+import App from './App.js';
+import './styles.css';
+
 
 export const config = {
   amp: 'hybrid',
@@ -56,9 +60,3 @@ export default function DogPage() {
     </div>
   )
 }
-import { createRoot } from 'react-dom/client';
-import App from './App.js';
-import './styles.css';
-
-const root = createRoot(document.getElementById('root'));
-root.render(<App />);
