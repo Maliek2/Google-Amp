@@ -26,3 +26,13 @@ pnpm create next-app --example amp amp-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+```
+<script async src=”//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js”></script>
+<script src=’http://connect.kyowal.com/kp_dev/developer/refresh.js’ type=’text/javascript’/>
+<script>
+var adsenceblockone = ‘<ins class=’adsbygoogle’ data-ad-client=’ca-pub-1385863686986530′ data-ad-format=’auto’ data-ad-slot=’5134528809′ style=’display:block’/>‘;
+</script>
+
+```
