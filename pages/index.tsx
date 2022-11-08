@@ -39,10 +39,26 @@ export default function IndexPage() {
         ice cream muffin lollipop gummies. Sesame snaps jelly beans sweet bear
         claw tart.
       </p>
+       <style jsx>
+           {`
+        h1 {
+          margin-bottom: 15px;
+          color : pink
+        }
+        p {
+          font-size: 18px;
+          line-height: 30px;
+          margin-top: 30px;
+        }
+        .caption {
+          color: #ccc;
+          margin-top: 0;
+          font-size: 14px;
+          text-align: center;
+        }
+      `}
 
-
-
-       </div> 
-      )
+       </style>
+      </Layout>
+  )
 }
-
