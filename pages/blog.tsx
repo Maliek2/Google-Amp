@@ -37,3 +37,6 @@ export default function BlogPage() {
         carrot cake muffin tiramisu lemon drops liquorice topping brownie.
         Soufflé chocolate cake croissant cupcake jelly.
       </p>
+     </div>
+  )
+}
