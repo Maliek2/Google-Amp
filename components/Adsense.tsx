@@ -1,5 +1,3 @@
-// components/Adsense.tsx
-
 function Ads() {
   const adsRef = useRef<HTMLModElement | null>(null);
 
@@ -24,8 +22,8 @@ function Ads() {
         ref={adsRef}
         className="adsbygoogle"
         style={{ display: 'block' }}
-        data-ad-client="ca-pub-xxx"
-        data-ad-slot="xxx"
+        data-ad-client="ca-pub-6607653375286321"
+        data-ad-slot="1555412871"
         data-ad-format="auto"
         data-full-width-responsive="true"
       ></ins>
