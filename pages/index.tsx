@@ -21,12 +21,8 @@ export default function IndexPage() {
        <h1>The Maliek News </h1>
        
        <p>
-        The login can now switch To <a href={isAmp ? '/dog?amp=1' : '/dog'}>My News</a>
-       </p>
-       <p> 
-        Jump off balcony, onto stranger's head.
-      </p>
-      <p>
+        The page can now switch To <a href={isAmp ? '/blog?amp=1' : '/blog'}>My News</a>
+       
         Ice cream lollipop marshmallow tiramisu jujubes croissant. Bear claw
         lemon drops marzipan candy bonbon cupcake powder. Candy canes cheesecake
         bear claw pastry cake donut jujubes. Icing tart jelly-o soufflé bonbon
@@ -43,7 +39,7 @@ export default function IndexPage() {
            {`
         h1 {
           margin-bottom: 15px;
-          color : pink
+          color : black
         }
         p {
           font-size: 18px;
